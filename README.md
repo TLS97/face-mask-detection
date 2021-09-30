@@ -9,7 +9,7 @@ collection of personal identifiable information. For instance, as a way of colle
 measures are, and if additional measures are needed in order to mitigate the spread.
 
 ## Results
-The training and validation Loss and Accuracy of the classifier model are shown in the graph below. Both graphs seem to 
+The training and validation Loss and Accuracy of the classifier model is shown in the graph below. Both graphs seem to 
 decrease and there hardly any gap between the training and validation accuracy. This means that there is no signs of under- 
 or overfitting.
 
