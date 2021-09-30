@@ -18,7 +18,7 @@ or overfitting.
 ## How to run the trained Face Mask Detector
 1. Check that you have the required [dependencies](#dependencies) installed.
 2. The already trained model has to be downloaded and saved in the root folder named *face-mask-detection*.
-Download it from [Google Drive](https://drive.google.com/drive/folders/1G778QCfgwynOQDfMbhB0XrYsUHN-sWoW?usp=sharing).
+Download it from [Google Drive](https://drive.google.com/file/d/1bsa-TjEF0iY0yGaj6xJbTm8HsElN-i9J/view?usp=sharing).
 3. Go to the Real-Time Face Mask Detector with the filename *real_time_face_mask_detector.py*
 4. You might have to change the capturing device (or you could insert a video file) in line 113 of the code, depending 
 on the devices you have connected.
